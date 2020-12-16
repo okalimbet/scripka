@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![](https://media.giphy.com/media/WNg4XV5VIsLfy/giphy.gif)
 -->
-&nbsp;
 
 My name is Olga Morgan and I'm a junior front-end developer. I found myself on a long journey looking for my place where I can 
 combine both the logic of programming and the beauty of art to merge the two into something that transcends both myself and my experiences and to deposit some small piece of positivity into people's life.
 
 - 🌱 I’m currently learning React, Angular, and JavaScript
-
-&nbsp;
 
 <p align="center">
 
