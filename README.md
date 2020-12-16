@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://media.giphy.com/media/WNg4XV5VIsLfy/giphy.gif)
 -->
 &nbsp;
 
@@ -25,7 +26,8 @@ combine both the logic of programming and the beauty of art to merge the two int
 
 <p align="center">
 
-You can also find me on
+You can also find me on: 
+
 [![LinkedIn][2.2]][2]
 
 </p>
@@ -34,16 +36,10 @@ You can also find me on
 
 [2]: https://www.linkedin.com/in/olgamorgan/
 
-&nbsp;
-
-![](https://media.giphy.com/media/WNg4XV5VIsLfy/giphy.gif)
-
 
 ---
 
 ## &#128295; Technologies  & Tools
-
-&nbsp;
 
 [![Generic badge](https://img.shields.io/badge/-JavaScript-blue)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-React-blue)](https://shields.io/)
@@ -53,18 +49,14 @@ You can also find me on
 [![Generic badge](https://img.shields.io/badge/-Mocha-lightgrey)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Jest-lightgrey)](https://shields.io/)
 
-&nbsp;
-
 ---
 
 ## &#128200; GitHub Stats
 
-&nbsp;
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scripka&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scripka&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;
 
 ---
