@@ -40,8 +40,11 @@ You can also find me on:
 
 [![Generic badge](https://img.shields.io/badge/-JavaScript-blue)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-React-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/-Redux-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/-TypeScript-blue)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-HTML5-blue)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/-CSS/Sass-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/-CSS/Sass-green)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/-Cypress-lightgrey)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Chai-lightgrey)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Mocha-lightgrey)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-Jest-lightgrey)](https://shields.io/)
