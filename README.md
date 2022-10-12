@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Olga Morgan and I'm a junior front-end developer. I found myself on a long journey looking for my place where I can 
 combine both the logic of programming and the beauty of art to merge the two into something that transcends both myself and my experiences and to deposit some small piece of positivity into people's life.
 
-- 🌱 I’m currently learning TypeScript and Redux
+- 🌱 I’m currently learning GraphQL and Java
 
 <p align="center">
 
